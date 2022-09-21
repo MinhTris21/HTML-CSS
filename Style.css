@@ -1,13 +1,13 @@
 body {
-  margin: 0;
-  padding: 0;
-  background: url(https://img.wattpad.com/a400c6343b908e77921c552f453c8d874c0a579a/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f377a5370465732565a76345345773d3d2d3838323839393437302e313630666338636338623266626332333430333431323631303434342e676966)
+  margin: 0px;
+  padding: 0px;
+  background: url(https://cutewallpaper.org/21/galaxy-background-gif/About-Massive-Galaxy-Online-Space-Trading-Adventure-Game.gif)
     no-repeat;
   background-size: cover;
 }
 .box {
   width: 450px;
-  background: rgba(28, 26, 26, 0.4);
+  background: rgba(28, 26, 26, 0.5);
   padding: 40px;
   text-align: center;
   margin: auto;
@@ -43,11 +43,12 @@ ul {
   list-style: none;
 }
 .box li a {
-  color: rgb(252, 252, 252);
+  color: rgb(227, 212, 212);
   text-decoration: none;
   font-size: 60px;
   transition: all ease-in-out 250ms;
 }
+/* fake class, use to blur the square icon */
 .box li a:hover {
   color: #0b0a0a;
 }
