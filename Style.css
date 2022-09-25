@@ -13,7 +13,7 @@ body {
   margin: auto;
   margin-top: 3%;
   color: rgb(251, 251, 251);
-  font-family: "Century Gothic", sans-serif;
+  font-family: "Trebuchet MS";
 }
 .box-img {
   border-radius: 50%;
@@ -43,12 +43,12 @@ ul {
   list-style: none;
 }
 .box li a {
-  color: rgb(227, 212, 212);
+  color: rgb(255, 255, 255);
   text-decoration: none;
   font-size: 60px;
   transition: all ease-in-out 250ms;
 }
 /* fake class, use to blur the square icon */
 .box li a:hover {
-  color: #0b0a0a;
+  color: #6660b6;
 }
